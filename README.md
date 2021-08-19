@@ -1,6 +1,6 @@
 ## Hey! I'm Angelina Gomes
 
-💻 Computer science student
+💻 Computer science student </br>
 😄 Pronouns: she/her
 
 <div>
