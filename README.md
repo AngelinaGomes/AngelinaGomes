@@ -1,7 +1,7 @@
 ## Hey! I'm Angelina Gomes
 
-- 💻 Computer science student
-- 😄 Pronouns: she/her
+💻 Computer science student
+😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/AngelinaGomes">
